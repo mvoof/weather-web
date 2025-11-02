@@ -1,8 +1,8 @@
 {
-  "name": "weather-app",
+  "name": "weather-web",
   "version": "1.0.0",
   "description": "Modern weather application using React, TypeScript, and MobX",
-  "homepage": "https://mvoof.github.io/weather-app",
+  "homepage": "https://mvoof.github.io/weather-web",
   "scripts": {
     "dev": "webpack serve --mode development",
     "build": "webpack --mode production",
